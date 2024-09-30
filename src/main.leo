@@ -10,6 +10,8 @@ program helloworld.aleo {
     transition main(public a: u32, b: u32) -> u32 {
 
         // Changes1 on branch2
+
+        // Changes2 on branch2
         
         return a + b;
     }
